@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_bianbing"
+        android:icon="@mipmap/bianbing"
+        android:title="辨病" />
+    <item
+        android:id="@+id/item_bianzheng1"
+        android:icon="@mipmap/bianzheng1"
+        android:title="辨证" />
+
+    <item
+        android:id="@+id/item_bianzheng2"
+        android:icon="@mipmap/bianzheng2"
+        android:title="辨症" />
+
+</menu>
